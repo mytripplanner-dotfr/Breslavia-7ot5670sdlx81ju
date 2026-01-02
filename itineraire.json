@@ -1,0 +1,202 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "🏰",
+  "titre": "Escapade relaxante à Breslavia",
+  "budget_total": "550-700 €",
+  "duree": "4 jours",
+  "temps_vol": "1h45 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et charme de la Vieille Ville",
+      "legende": "Après un vol court, installez-vous confortablement et laissez-vous charmer par l'ambiance médiévale de la place du Marché. Une balade douce pour s'imprégner de l'atmosphère unique de Wroclaw, entre architecture colorée et statues de nains espiègles. Une première soirée relaxante pour débuter le séjour.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "🛬 <strong>Arrivée à Wroclaw</strong>: Atterrissage à l'aéroport Copernicus et transfert vers le centre-ville.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Check-in et détente après le voyage.",
+        "🚶‍♂️ <strong>Balade sur la Place du Marché (Rynek)</strong>: Découvrez le cœur vibrant de Wroclaw, ses maisons colorées et l'impressionnant Hôtel de Ville. Une introduction parfaite à la ville."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "L'aéroport de Wroclaw est bien desservi par les bus (ligne 106) qui vous mènent directement au centre-ville en environ 30-40 minutes."
+        }
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Rynek, Wroclaw",
+          "categorie": "Place",
+          "coords": { "lat": 51.1107, "lng": 17.0316 }
+        },
+        {
+          "nom_recherche": "Hôtel de Ville de Wroclaw",
+          "categorie": "Monument",
+          "coords": { "lat": 51.1108, "lng": 17.0319 }
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌳",
+      "titre": "Île aux Cathédrales et sérénité fluviale",
+      "legende": "Explorez l'historique Ostrów Tumski, l'île de la Cathédrale, où le temps semble s'être arrêté. Profitez ensuite d'une croisière paisible sur l'Oder pour admirer la ville sous un autre angle. Terminez la journée par une promenade relaxante dans un jardin japonais, un havre de paix.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "⛪ <strong>Visite d'Ostrów Tumski</strong>: Flânez dans le quartier le plus ancien de Wroclaw, admirez la Cathédrale Saint-Jean-Baptiste et ses ruelles éclairées au gaz le soir.",
+        "🚢 <strong>Croisière sur l'Oder</strong>: Détendez-vous lors d'une balade en bateau sur la rivière Oder, offrant des vues pittoresques sur les ponts et les monuments de la ville.",
+        "🌸 <strong>Jardin Japonais</strong>: Immergez-vous dans la tranquillité de ce magnifique jardin, parfait pour une promenade méditative et une pause nature."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Lumières d'Ostrów Tumski",
+          "texte": "Chaque soir, les lampadaires à gaz d'Ostrów Tumski sont allumés à la main par un allumeur de réverbères, une tradition charmante à observer au crépuscule."
+        }
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Ostrów Tumski, Wroclaw",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 51.1137, "lng": 17.0401 }
+        },
+        {
+          "nom_recherche": "Cathédrale Saint-Jean-Baptiste, Wroclaw",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 51.1139, "lng": 17.0407 }
+        },
+        {
+          "nom_recherche": "Jardin Japonais, Wroclaw",
+          "categorie": "Jardin",
+          "coords": { "lat": 51.1098, "lng": 17.0792 }
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🖼️",
+      "titre": "Art, eau et détente urbaine",
+      "legende": "Découvrez l'impressionnante fresque circulaire de la Panorama Racławicka, une expérience artistique unique. Plongez ensuite dans le monde fascinant de l'eau à Hydropolis, un musée moderne et interactif. Terminez la journée par une exploration des quartiers plus calmes ou une pause café dans un cadre agréable.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "🎨 <strong>Visite de la Panorama Racławicka</strong>: Admirez cette immense peinture circulaire qui dépeint la bataille de Racławice, une œuvre d'art immersive et historique.",
+        "💧 <strong>Exploration d'Hydropolis</strong>: Un centre de connaissance sur l'eau, offrant des expositions interactives et éducatives dans un cadre moderne et apaisant.",
+        "☕ <strong>Pause café et quartier des Quatre Dômes</strong>: Profitez d'un moment de calme dans un café local et explorez le quartier des Quatre Dômes, avec ses musées et galeries."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶",
+          "titre": "Accessibilité",
+          "texte": "La plupart des sites sont accessibles à pied ou via le tramway, un moyen de transport efficace et agréable à Wroclaw."
+        }
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Panorama Racławicka, Wroclaw",
+          "categorie": "Musée",
+          "coords": { "lat": 51.1100, "lng": 17.0450 }
+        },
+        {
+          "nom_recherche": "Hydropolis, Wroclaw",
+          "categorie": "Musée",
+          "coords": { "lat": 51.1020, "lng": 17.0460 }
+        },
+        {
+          "nom_recherche": "Quartier des Quatre Dômes, Wroclaw",
+          "categorie": "Quartier",
+          "coords": { "lat": 51.1100, "lng": 17.0480 }
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Chasse aux nains et départ",
+      "legende": "Profitez de votre dernière matinée pour une activité ludique et unique à Wroclaw : la chasse aux nains ! Parcourez les rues à la recherche de ces petites statues de bronze, puis offrez-vous un dernier repas polonais avant de vous diriger vers l'aéroport, des souvenirs plein la tête.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "🔎 <strong>Chasse aux nains de Wroclaw</strong>: Partez à la découverte des centaines de petites statues de nains disséminées dans toute la ville, une activité amusante et relaxante.",
+        "🎁 <strong>Shopping de souvenirs</strong>: Trouvez des cadeaux uniques et des produits locaux dans les boutiques de la Vieille Ville.",
+        "🛫 <strong>Départ de Wroclaw</strong>: Transfert vers l'aéroport et vol retour vers Paris."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🗺️",
+          "titre": "Carte des nains",
+          "texte": "Des cartes spéciales pour localiser les nains sont disponibles dans les offices de tourisme, rendant la chasse encore plus facile et amusante."
+        }
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vieille Ville de Wroclaw",
+          "categorie": "Quartier",
+          "coords": { "lat": 51.1107, "lng": 17.0316 }
+        },
+        {
+          "nom_recherche": "Aéroport de Wroclaw-Copernicus",
+          "categorie": "Aéroport",
+          "coords": { "lat": 51.1028, "lng": 16.8858 }
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "184 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "25-35 €/pers (bus, tram, aéroport)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "120-160 €/pers (30-40€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "100-120 €/pers (3 nuits en hôtel 3* base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "50-70 €/pers (musées, croisière, jardin)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Juin", "symbole": "☀️" },
+    { "titre": "Septembre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie est le Zloty polonais (PLN). Les cartes bancaires sont largement acceptées, mais ayez un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Wroclaw est une ville très sûre. Le réseau de tramway est excellent pour se déplacer facilement et à moindre coût.", "symbole": "🚃" },
+    { "titre": "Les prises électriques sont de type F (comme en France), pas besoin d'adaptateur.", "symbole": "🔌" },
+    { "titre": "Apprenez quelques mots de polonais comme \"Dzień dobry\" (Bonjour) ou \"Dziękuję\" (Merci), cela sera très apprécié.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Wroclaw est surnommée la \"Venise de la Pologne\" en raison de ses nombreux ponts et passerelles (plus de 100 !), traversant les bras de l'Oder et ses affluents." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "La ville est célèbre pour ses centaines de petites statues de nains en bronze, cachées un peu partout. Elles sont un hommage au mouvement anti-communiste \"Orange Alternative\" des années 80, dont le symbole était un nain." 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍴", 
+      "titre": "Pierogi", 
+      "description": "Ces raviolis polonais, souvent farcis de viande, de chou et champignons, de fromage blanc ou de fruits, sont un incontournable de la cuisine locale." 
+    },
+    { 
+      "symbole": "🍲", 
+      "titre": "Bigos", 
+      "description": "Un plat copieux et réconfortant, le \"ragoût du chasseur\" est composé de choucroute, de diverses viandes (souvent porc et saucisse), de champignons et d'épices." 
+    },
+    { 
+      "symbole": "🍰", 
+      "titre": "Sernik", 
+      "description": "Le cheesecake polonais, à base de fromage blanc (twaróg), est un dessert crémeux et moins sucré que son homologue américain, souvent agrémenté de fruits ou de chocolat." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-WRO/2026-06-15/2026-06-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Wroclaw", "url": "https://visitwroclaw.eu/fr", "symbole": "📘" },
+    { "legende": "Transports en commun", "titre": "MPK Wroclaw (bus & tram)", "url": "https://www.mpk.wroc.pl/en", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Wroclaw", "url": "https://www.accuweather.com/fr/pl/wroclaw/274452/weather-forecast/274452", "symbole": "🌤️" }
+  ]
+}
